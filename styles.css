@@ -27,30 +27,35 @@ H1{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    display: flex;
  }    
  .sec2{
     background-image: url("bar.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    display: flex;
  }          
  .sec3{
     background-image: url("tubs.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    display: flex;
  }     
  .sec4{
     background-image: url("coness.jpg" );
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    display: flex;
  }
  .sec5{
     background-image: url("icecake.jpg" );
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    display: flex;
  }
  .card{
    display: grid;
